@@ -242,4 +242,4 @@ print('---------------------')
 print('milk quality prediction loss: ' + str(loss) + '\n' +'milk quality prediction accuracy: ' + str(accuracy))
 # Loading the Tensorboard extension
 '''%load_ext tensorboard
-%tensorboard --logdir "logs/fit"'''
+%tensorboard --logdir "logs/fit_milk_quality"'''
