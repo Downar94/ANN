@@ -1,13 +1,26 @@
 # ANN-Data-Prediction
 ## Table of contents
 * [Datasets](#datasets)
-  * [Covid dataset](#CDS)
-  * [Pokemon dataset](#PDS)
+  * [Iris dataset](#IDS)
+  * [German credit risk dataset](#GCRD)
+  * [Milk quality dataset](#MQD)
+  * [Heart failure risk dataset](#HFD)
+  * [Travel insurance decision dataset](#TID)
 * [Results](#results)
   * [Tensorflow](#Tens)
   * [Handwritten network](#Hand)
 <a name="datasets"></a>
 # Datasets
+<a name="IDS"></a>
+## Iris dataset
+<a name="GCRD"></a>
+## German credit risk dataset
+<a name="MQD"></a>
+## Milk quality dataset
+<a name="HFD"></a>
+## Heart failure risk dataset
+<a name="TID"></a>
+## Travel insurance decision dataset
 <a name="results"></a>
 # Results
 <a name="Tens"></a>
@@ -27,3 +40,11 @@
 ![milk_prediction](https://user-images.githubusercontent.com/44844566/218356703-4ceff998-eb47-492e-aff0-56adfde881a9.PNG)
 <a name="Hand"></a>
 ## Handwritten
+### Iris dataset
+![iris](https://user-images.githubusercontent.com/44844566/218358628-b52a4973-c694-495c-82cd-81a7b08ddbcd.PNG)
+### German credit risk dataset
+![credit_risk](https://user-images.githubusercontent.com/44844566/218358634-78d5cf72-8f83-442b-93ad-10d2b62e5974.PNG)
+### Heart failure risk dataset
+![heart_failure](https://user-images.githubusercontent.com/44844566/218358625-f8e4159f-adeb-4844-bf22-e633b81a043a.PNG)
+### Travel insurance decision dataset
+![travel insurance](https://user-images.githubusercontent.com/44844566/218358631-c8484a14-ae12-4bda-a9db-76ddd9e4cb9c.PNG)
