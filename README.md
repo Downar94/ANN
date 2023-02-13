@@ -13,14 +13,91 @@
 # Datasets
 <a name="IDS"></a>
 ## Iris dataset
+### Sklearn library dataset.
+
+### Attributes:
+1. sepal length 
+2. sepal width 
+3. petal length 
+4. petal width 
+
+### Class:
+- Iris Setosa
+- Iris Versicolour
+- Iris Virginica
 <a name="GCRD"></a>
 ## German credit risk dataset
+
+### Attributes:
+1. Age
+2. Sex
+3. Job
+4. Housing
+5. Saving accounts
+6. Checking account
+7. Credit amount
+8. Duration
+9. Purpose
+
+### Class:
+- good
+- bad
+
 <a name="MQD"></a>
 ## Milk quality dataset
+
+### Attributes:
+1. pH
+2. Temprature
+3. Taste
+4. Odor
+5. Fat
+6. Turbidity
+7. Colour
+
+### Class:
+- high
+- medium
+- low
+
 <a name="HFD"></a>
 ## Heart failure risk dataset
+
+### Attributes:
+1. age
+2. anaemia
+3. creatinine_phosphokinase
+4. diabetes
+5. ejection_fraction
+6. high_blood_pressure
+7. platelets
+8. serum_creatinine
+9. serum_sodium
+10. sex
+11. smoking
+12. time
+
+### Class:
+- 1 (yes)
+- 0 (no)
+
 <a name="TID"></a>
 ## Travel insurance decision dataset
+
+### Attributes:
+1. Age
+2. Employment Type
+3. GraduateOrNot
+4. AnnualIncome
+5. FamilyMembers
+6. ChronicDiseases
+7. FrequentFlyer
+8. EverTravelledAbroad
+
+### Class:
+- 1 (yes)
+- 0 (no)
+
 <a name="results"></a>
 # Results
 <a name="Tens"></a>
